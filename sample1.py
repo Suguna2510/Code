@@ -1,1 +1,1 @@
-Print("This is a sample1 python program")
+print("This is a sample1 python program")
